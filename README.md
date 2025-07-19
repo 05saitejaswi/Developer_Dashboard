@@ -1,4 +1,3 @@
-# Developer_Dashboard
 # Developer Dashboard
 
 A personal dashboard to visualize GitHub activity, tech stack, and project progress using interactive charts and responsive UI components.
